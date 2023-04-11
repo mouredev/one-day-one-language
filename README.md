@@ -37,16 +37,29 @@ Así con cada uno de los lenguajes.
 
 > Cada semana un día dedicado a un nuevo lenguaje
 
-### Día 1: Dart `PRÓXIMA CLASE`
+### <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" style="height: 3%; width:3%;"/></a> Día 1: Dart 
 
-<a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" style="height: 10%; width:10%;"/></a>
+<a href="https://www.twitch.tv/videos/1786404728?t=00h12m34s"><img src="./Media/dart.jpg" style="height: 50%; width:50%;"/></a>
 
-#### Clase en directo: Jueves 6 de Abril en [Twitch](https://twitch.tv/mouredev) a las 20:00 CET
-> ##### Consulta el horario por país y añade un recordatorio desde [Discord](https://discord.gg/mouredev?event=1091025732739792948)
+#### [Clase en vídeo](https://www.twitch.tv/videos/1786404728?t=00h12m34s) | [Código](./01 - Dart)
 
-### Día 2: Python
+Recursos:
 
-<a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height: 10%; width:10%;"/></a>
+* [Web oficial](https://dart.dev)
+* [Editor en línea](https://dartpad.dev)
+* [Configuración](https://dart.dev/get-dart)
+* [Documentación](https://dart.dev/language)
+* [Tutoriales](https://dart.dev/tutorials)
+* [Codelabs](https://dart.dev/codelabs)
+* [Uso con Flutter](https://flutter.dev)
+* [Gestor de paquetes](https://pub.dev)
+
+### <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height: 3%; width:3%;"/></a> Día 2: Python `PRÓXIMA CLASE`
+
+<a href="https://www.twitch.tv/mouredev"><img src="./Media/next.jpg" style="height: 50%; width:50%;"/></a>
+
+#### Clase en directo: Jueves 13 de Abril en [Twitch](https://twitch.tv/mouredev) a las 20:00 CET
+> ##### Consulta el horario por país y añade un recordatorio desde [Discord](https://discord.gg/mouredev?event=1095334432136765521)
 
 > ##### Clase en directo: Próximamente... 
 
