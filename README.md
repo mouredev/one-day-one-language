@@ -41,7 +41,7 @@ Así con cada uno de los lenguajes.
 
 <a href="https://www.twitch.tv/videos/1786404728?t=00h12m34s"><img src="./Media/dart.jpg" style="height: 50%; width:50%;"/></a>
 
-#### [Clase en vídeo](https://www.twitch.tv/videos/1786404728?t=00h12m34s) | [Código](./01 - Dart)
+#### [Clase en vídeo](https://www.twitch.tv/videos/1786404728?t=00h12m34s) | [Código](./01%20-%20Dart)
 
 Recursos:
 
