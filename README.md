@@ -39,36 +39,26 @@ Así con cada uno de los lenguajes.
 
 ### <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" style="height: 3%; width:3%;"/></a> Día 1: Dart 
 
-<a href="https://www.twitch.tv/videos/1786404728?t=00h12m34s"><img src="./Media/dart.jpg" style="height: 50%; width:50%;"/></a>
+<a href="https://youtu.be/5tTDztEQzQQ"><img src="./Media/dart.jpg" style="height: 50%; width:50%;"/></a>
 
-#### [Clase en vídeo](https://www.twitch.tv/videos/1786404728?t=00h12m34s) | [Código](./01%20-%20Dart)
+#### [Clase en vídeo](https://youtu.be/5tTDztEQzQQ) y [Código](./01%20-%20Dart)
 
-Recursos:
+**Recursos:** [Web oficial](https://dart.dev) | [Editor en línea](https://dartpad.dev) | [Configuración](https://dart.dev/get-dart) | [Documentación](https://dart.dev/language) | [Tutoriales](https://dart.dev/tutorials) | [Codelabs](https://dart.dev/codelabs) | [Uso con Flutter](https://flutter.dev) | [Gestor de paquetes](https://pub.dev)
 
-* [Web oficial](https://dart.dev)
-* [Editor en línea](https://dartpad.dev)
-* [Configuración](https://dart.dev/get-dart)
-* [Documentación](https://dart.dev/language)
-* [Tutoriales](https://dart.dev/tutorials)
-* [Codelabs](https://dart.dev/codelabs)
-* [Uso con Flutter](https://flutter.dev)
-* [Gestor de paquetes](https://pub.dev)
+### <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height: 3%; width:3%;"/></a> Día 2: Python
 
-### <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height: 3%; width:3%;"/></a> Día 2: Python `PRÓXIMA CLASE`
+<a href="https://www.twitch.tv/videos/1792712280?t=00h18m46s"><img src="./Media/python.jpg" style="height: 50%; width:50%;"/></a>
+
+#### [Clase en vídeo](https://www.twitch.tv/videos/1792712280?t=00h18m46s) y [Código](./02%20-%20Python)
+
+**Recursos:** [Web oficial](https://www.python.org) | [Editor en línea](https://www.online-python.com/) | [Configuración](https://www.python.org/downloads/) | [Documentación](https://docs.python.org/es/3/) | [Tutoriales](https://mouredev.com/python) | [Libro](https://mouredev.com/libropython)
+
+### <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" style="height: 3%; width:3%;"/></a> Día 3: Swift `PRÓXIMA CLASE`
 
 <a href="https://www.twitch.tv/mouredev"><img src="./Media/next.jpg" style="height: 50%; width:50%;"/></a>
 
-#### Clase en directo: Jueves 13 de Abril en [Twitch](https://twitch.tv/mouredev) a las 20:00 CET
-> ##### Consulta el horario por país y añade un recordatorio desde [Discord](https://discord.gg/mouredev?event=1095334432136765521)
-
-> ##### Clase en directo: Próximamente... 
-
-### Día 3: Swift
-
-<a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" style="height: 10%; width:10%;"/></a>
-
-> ##### Clase en directo: Próximamente...
- 
+#### Clase en directo: Jueves 26 de Abril en [Twitch](https://twitch.tv/mouredev) a las 20:00 CET
+> ##### Consulta el horario por país y añade un recordatorio desde [Discord](https://discord.gg/mouredev?event=1098531243123028029) 
 
 ### Día 4: Java
 
