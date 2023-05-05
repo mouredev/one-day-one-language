@@ -1,5 +1,5 @@
 // Día 1: Dart
-// Clase en vídeo: https://www.twitch.tv/videos/1786404728?t=00h12m34s
+// Clase en vídeo: https://youtu.be/5tTDztEQzQQ
 
 void main() {
   /*
@@ -64,11 +64,13 @@ void main() {
     print("El valor no es 10 ni 11");
   }
 
-  // Listas
+  // Funciones
 
   myFunction();
   var myReturn = myFunctionWithReturn();
   print(myReturn);
+
+  // Listas
 
   var myList = ["Brais", "Moure", "@mouredev", "Brais"];
   print(myList);

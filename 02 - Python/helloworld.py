@@ -1,3 +1,6 @@
+# Día 2: Python
+# Clase en vídeo: https://youtu.be/WatTqrq8kQQ
+
 # Hola mundo
 
 print("Hola, Python")

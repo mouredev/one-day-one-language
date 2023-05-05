@@ -47,24 +47,26 @@ Así con cada uno de los lenguajes.
 
 ### <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height: 3%; width:3%;"/></a> Día 2: Python
 
-<a href="https://www.twitch.tv/videos/1792712280?t=00h18m46s"><img src="./Media/python.jpg" style="height: 50%; width:50%;"/></a>
+<a href="https://youtu.be/WatTqrq8kQQ"><img src="./Media/python.jpg" style="height: 50%; width:50%;"/></a>
 
-#### [Clase en vídeo](https://www.twitch.tv/videos/1792712280?t=00h18m46s) y [Código](./02%20-%20Python)
+#### [Clase en vídeo](https://youtu.be/WatTqrq8kQQ) y [Código](./02%20-%20Python)
 
 **Recursos:** [Web oficial](https://www.python.org) | [Editor en línea](https://www.online-python.com/) | [Configuración](https://www.python.org/downloads/) | [Documentación](https://docs.python.org/es/3/) | [Tutoriales](https://mouredev.com/python) | [Libro](https://mouredev.com/libropython)
 
-### <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" style="height: 3%; width:3%;"/></a> Día 3: Swift `PRÓXIMA CLASE`
+### <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" style="height: 3%; width:3%;"/></a> Día 3: Swift
+
+<a href="https://www.twitch.tv/videos/1804231169?t=00h21m51s"><img src="./Media/swift.jpg" style="height: 50%; width:50%;"/></a>
+
+#### [Clase en vídeo](https://www.twitch.tv/videos/1804231169?t=00h21m51s) y [Código](./03%20-%20Swift)
+
+**Recursos:** [Web oficial](https://www.swift.org) | [Web oficial Apple](https://www.apple.com/es/swift) | [Editor en línea](https://swiftfiddle.com/) | [Configuración](https://www.swift.org/download/) | [Documentación](https://www.swiftbook.es/) | [Uso con SwiftUI](https://developer.apple.com/xcode/swiftui/) | [Tutoriales Swift](https://www.youtube.com/watch?v=Wfh0FYR0z6I&list=PLNdFk2_brsRcWM-31vJUgyHIGpopIDw4s) | [Tutoriales SwiftUI](https://developer.apple.com/tutorials/swiftui)
+
+### <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="height: 3%; width:3%;"/></a> Día 4: Java `PRÓXIMA CLASE`
 
 <a href="https://www.twitch.tv/mouredev"><img src="./Media/next.jpg" style="height: 50%; width:50%;"/></a>
 
-#### Clase en directo: Jueves 26 de Abril en [Twitch](https://twitch.tv/mouredev) a las 20:00 CET
-> ##### Consulta el horario por país y añade un recordatorio desde [Discord](https://discord.gg/mouredev?event=1098531243123028029) 
-
-### Día 4: Java
-
-<a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="height: 10%; width:10%;"/></a>
-
-> ##### Clase en directo: Próximamente...
+#### Clase en directo: Jueves 18 de Mayo en [Twitch](https://twitch.tv/mouredev) a las 20:00 CEST
+> ##### Consulta el horario por país y añade un recordatorio desde [Discord](https://discord.gg/mouredev?event=1104024179621244928) 
           
 ### Día 5: Kotlin
 
