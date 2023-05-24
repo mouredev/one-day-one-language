@@ -61,18 +61,20 @@ Así con cada uno de los lenguajes.
 
 **Recursos:** [Web oficial](https://www.swift.org) | [Web oficial Apple](https://www.apple.com/es/swift) | [Editor en línea](https://swiftfiddle.com/) | [Configuración](https://www.swift.org/download/) | [Documentación](https://www.swiftbook.es/) | [Uso con SwiftUI](https://developer.apple.com/xcode/swiftui/) | [Tutoriales Swift](https://www.youtube.com/watch?v=Wfh0FYR0z6I&list=PLNdFk2_brsRcWM-31vJUgyHIGpopIDw4s) | [Tutoriales SwiftUI](https://developer.apple.com/tutorials/swiftui)
 
-### <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="height: 3%; width:3%;"/></a> Día 4: Java `PRÓXIMA CLASE`
+### <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="height: 3%; width:3%;"/></a> Día 4: Java
+
+<a href="https://www.twitch.tv/mouredev"><img src="./Media/java.jpg" style="height: 50%; width:50%;"/></a>
+
+#### [Clase en vídeo](https://www.twitch.tv/videos/1823194289?t=00h26m12s) y [Código](./04%20-%20Java)
+
+**Recursos:** [Web oficial](https://www.java.com/es/) | [Editor en línea](https://www.online-java.com) |[Configuración](https://www.java.com/es/download/help/index_installing.html) | [Documentación](https://docs.oracle.com/en/java/) | [Tutorial](https://www.w3schools.com/java/)
+
+### <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" style="height: 3%; width:3%;"/></a> Día 5: Kotlin `PRÓXIMA CLASE`
 
 <a href="https://www.twitch.tv/mouredev"><img src="./Media/next.jpg" style="height: 50%; width:50%;"/></a>
 
-#### Clase en directo: Jueves 18 de Mayo en [Twitch](https://twitch.tv/mouredev) a las 20:00 CEST
-> ##### Consulta el horario por país y añade un recordatorio desde [Discord](https://discord.gg/mouredev?event=1104024179621244928) 
-          
-### Día 5: Kotlin
-
-<a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" style="height: 10%; width:10%;"/></a>
-
-> ##### Clase en directo: Próximamente...          
+#### Clase en directo: Jueves 25 de Mayo en [Twitch](https://twitch.tv/mouredev) a las 20:00 CEST
+> ##### Consulta el horario por país y añade un recordatorio desde [Discord](https://discord.gg/mouredev?event=1110907998345371729)        
 
 ### Día 6: JavaScript
 
