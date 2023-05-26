@@ -1,5 +1,5 @@
 // Día 3: Swift
-// Clase en vídeo: https://www.twitch.tv/videos/1804231169?t=00h21m51s
+// Clase en vídeo: https://youtu.be/kpsVJptSv1U
 
 import Foundation
 

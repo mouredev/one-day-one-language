@@ -55,30 +55,34 @@ Así con cada uno de los lenguajes.
 
 ### <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" style="height: 3%; width:3%;"/></a> Día 3: Swift
 
-<a href="https://www.twitch.tv/videos/1804231169?t=00h21m51s"><img src="./Media/swift.jpg" style="height: 50%; width:50%;"/></a>
+<a href="https://youtu.be/kpsVJptSv1U"><img src="./Media/swift.jpg" style="height: 50%; width:50%;"/></a>
 
-#### [Clase en vídeo](https://www.twitch.tv/videos/1804231169?t=00h21m51s) y [Código](./03%20-%20Swift)
+#### [Clase en vídeo](https://youtu.be/kpsVJptSv1U) y [Código](./03%20-%20Swift)
 
-**Recursos:** [Web oficial](https://www.swift.org) | [Web oficial Apple](https://www.apple.com/es/swift) | [Editor en línea](https://swiftfiddle.com/) | [Configuración](https://www.swift.org/download/) | [Documentación](https://www.swiftbook.es/) | [Uso con SwiftUI](https://developer.apple.com/xcode/swiftui/) | [Tutoriales Swift](https://www.youtube.com/watch?v=Wfh0FYR0z6I&list=PLNdFk2_brsRcWM-31vJUgyHIGpopIDw4s) | [Tutoriales SwiftUI](https://developer.apple.com/tutorials/swiftui)
+**Recursos:** [Web oficial](https://www.swift.org) | [Web oficial Apple](https://www.apple.com/es/swift) | [Editor en línea](https://swiftfiddle.com/) | [Configuración](https://www.swift.org/download/) | [Documentación](https://www.swiftbook.es/) | [Uso con SwiftUI](https://developer.apple.com/xcode/swiftui/) | [Uso con Vapor](https://vapor.codes/) | [Tutoriales Swift](https://www.youtube.com/watch?v=Wfh0FYR0z6I&list=PLNdFk2_brsRcWM-31vJUgyHIGpopIDw4s) | [Tutoriales SwiftUI](https://developer.apple.com/tutorials/swiftui)
 
 ### <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="height: 3%; width:3%;"/></a> Día 4: Java
 
-<a href="https://www.twitch.tv/mouredev"><img src="./Media/java.jpg" style="height: 50%; width:50%;"/></a>
+<a href="https://www.twitch.tv/videos/1823194289?t=00h26m12s"><img src="./Media/java.jpg" style="height: 50%; width:50%;"/></a>
 
 #### [Clase en vídeo](https://www.twitch.tv/videos/1823194289?t=00h26m12s) y [Código](./04%20-%20Java)
 
 **Recursos:** [Web oficial](https://www.java.com/es/) | [Editor en línea](https://www.online-java.com) |[Configuración](https://www.java.com/es/download/help/index_installing.html) | [Documentación](https://docs.oracle.com/en/java/) | [Tutorial](https://www.w3schools.com/java/)
 
-### <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" style="height: 3%; width:3%;"/></a> Día 5: Kotlin `PRÓXIMA CLASE`
+### <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" style="height: 3%; width:3%;"/></a> Día 5: Kotlin
+
+<a href="https://www.twitch.tv/videos/1829088315?t=00h17m36s"><img src="./Media/kotlin.jpg" style="height: 50%; width:50%;"/></a>
+
+#### [Clase en vídeo](https://www.twitch.tv/videos/1829088315?t=00h17m36s) y [Código](./05%20-%20Kotlin)
+
+**Recursos:** [Web oficial](https://kotlinlang.org) | [Web JetBrains](https://www.jetbrains.com/es-es/opensource/kotlin) | [Web Android](https://developer.android.com/kotlin?hl=es-419) | [Editor en línea](https://play.kotlinlang.org) |[Configuración](https://kotlinlang.org/docs/getting-started.html) | [Documentación](https://kotlinlang.org/docs/home.html) | [Tutorial](https://kotlinlang.org/docs/kotlin-tour-hello-world.html) | [Cursos Kotlin](https://kotlinlang.org/education/courses.html) | [Cursos Android](https://developer.android.com/courses?hl=es-419) | [Cursos JetBrains](https://www.jetbrains.com/academy/#learn)
+
+### <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height: 3%; width:3%;"/></a> Día 6: JavaScript `PRÓXIMA CLASE`
 
 <a href="https://www.twitch.tv/mouredev"><img src="./Media/next.jpg" style="height: 50%; width:50%;"/></a>
 
-#### Clase en directo: Jueves 25 de Mayo en [Twitch](https://twitch.tv/mouredev) a las 20:00 CEST
-> ##### Consulta el horario por país y añade un recordatorio desde [Discord](https://discord.gg/mouredev?event=1110907998345371729)        
-
-### Día 6: JavaScript
-
-<a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height: 10%; width:10%;"/></a>
+#### Clase en directo: Jueves 1 de Junio en [Twitch](https://twitch.tv/mouredev) a las 20:00 CEST
+> ##### Consulta el horario por país y añade un recordatorio desde [Discord](https://discord.gg/mouredev?event=1111529881726103612)   
 
 > ##### Clase en directo: Próximamente...
 
