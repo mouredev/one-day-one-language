@@ -67,7 +67,7 @@ Así con cada uno de los lenguajes.
 
 #### [Clase en vídeo](https://www.twitch.tv/videos/1823194289?t=00h26m12s) y [Código](./04%20-%20Java)
 
-**Recursos:** [Web oficial](https://www.java.com/es/) | [Editor en línea](https://www.online-java.com) |[Configuración](https://www.java.com/es/download/help/index_installing.html) | [Documentación](https://docs.oracle.com/en/java/) | [Tutorial](https://www.w3schools.com/java/)
+**Recursos:** [Web oficial](https://www.java.com/es/) | [Editor en línea](https://www.online-java.com) | [Configuración](https://www.java.com/es/download/help/index_installing.html) | [Documentación](https://docs.oracle.com/en/java/) | [Tutorial](https://www.w3schools.com/java/)
 
 ### <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" style="height: 3%; width:3%;"/></a> Día 5: Kotlin
 
@@ -75,22 +75,22 @@ Así con cada uno de los lenguajes.
 
 #### [Clase en vídeo](https://www.twitch.tv/videos/1829088315?t=00h17m36s) y [Código](./05%20-%20Kotlin)
 
-**Recursos:** [Web oficial](https://kotlinlang.org) | [Web JetBrains](https://www.jetbrains.com/es-es/opensource/kotlin) | [Web Android](https://developer.android.com/kotlin?hl=es-419) | [Editor en línea](https://play.kotlinlang.org) |[Configuración](https://kotlinlang.org/docs/getting-started.html) | [Documentación](https://kotlinlang.org/docs/home.html) | [Tutorial](https://kotlinlang.org/docs/kotlin-tour-hello-world.html) | [Cursos Kotlin](https://kotlinlang.org/education/courses.html) | [Cursos Android](https://developer.android.com/courses?hl=es-419) | [Cursos JetBrains](https://www.jetbrains.com/academy/#learn)
+**Recursos:** [Web oficial](https://kotlinlang.org) | [Web JetBrains](https://www.jetbrains.com/es-es/opensource/kotlin) | [Web Android](https://developer.android.com/kotlin?hl=es-419) | [Editor en línea](https://play.kotlinlang.org) | [Configuración](https://kotlinlang.org/docs/getting-started.html) | [Documentación](https://kotlinlang.org/docs/home.html) | [Tutorial](https://kotlinlang.org/docs/kotlin-tour-hello-world.html) | [Cursos Kotlin](https://kotlinlang.org/education/courses.html) | [Cursos Android](https://developer.android.com/courses?hl=es-419) | [Cursos JetBrains](https://www.jetbrains.com/academy/#learn)
 
-### <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height: 3%; width:3%;"/></a> Día 6: JavaScript `PRÓXIMA CLASE`
+### <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height: 3%; width:3%;"/></a> Día 6: JavaScript
+
+<a href="https://www.twitch.tv/videos/1829088315?t=00h17m36s"><img src="./Media/javascript.jpg" style="height: 50%; width:50%;"/></a>
+
+#### [Clase en vídeo](https://www.twitch.tv/videos/1835012829?t=00h18m21s) y [Código](./06%20-%20JavaScript)
+
+**Recursos:** [Web oficial](https://developer.mozilla.org/es/docs/Web/JavaScript)| [Editor en línea](https://playcode.io/javascript-compiler) | [Tutorial Mozilla](https://developer.mozilla.org/es/docs/Web/JavaScript) | [Documentación](https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps) | [Tutorial W3Schools](https://www.w3schools.com/js/) | [Libro Aprendiendo JavaScript](https://mouredev.com/aprendiendojs)
+
+### <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="height: 3%; width:3%;"/></a> Día 7: TypeScript `PRÓXIMA CLASE`
 
 <a href="https://www.twitch.tv/mouredev"><img src="./Media/next.jpg" style="height: 50%; width:50%;"/></a>
 
-#### Clase en directo: Jueves 1 de Junio en [Twitch](https://twitch.tv/mouredev) a las 20:00 CEST
-> ##### Consulta el horario por país y añade un recordatorio desde [Discord](https://discord.gg/mouredev?event=1111529881726103612)   
-
-> ##### Clase en directo: Próximamente...
-
-### Día 7: TypeScript
-
-<a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="height: 10%; width:10%;"/></a>
-
-> ##### Clase en directo: Próximamente...
+#### Clase en directo: Jueves 8 de Junio en [Twitch](https://twitch.tv/mouredev) a las 20:00 CEST
+> ##### Consulta el horario por país y añade un recordatorio desde [Discord](https://discord.gg/mouredev?event=1114111772824186980)   
           
 ### Día 8: Go
 
