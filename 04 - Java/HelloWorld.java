@@ -1,5 +1,5 @@
 // Día 4: Java
-// Clase en vídeo: https://www.twitch.tv/videos/1823194289?t=00h26m12s
+// Clase en vídeo: https://youtu.be/W86KTBSiX2o
 
 import java.util.ArrayList;
 import java.util.HashMap;
