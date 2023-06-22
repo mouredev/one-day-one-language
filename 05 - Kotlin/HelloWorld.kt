@@ -1,5 +1,5 @@
 // Día 5: Kotlin
-// Clase en vídeo: https://www.twitch.tv/videos/1829088315?t=00h17m36s
+// Clase en vídeo: https://youtu.be/T3ugOYTRF7c
 
 fun main() {
 

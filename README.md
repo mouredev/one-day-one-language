@@ -71,9 +71,9 @@ Así con cada uno de los lenguajes.
 
 ### <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" style="height: 3%; width:3%;"/></a> Día 5: Kotlin
 
-<a href="https://www.twitch.tv/videos/1829088315?t=00h17m36s"><img src="./Media/kotlin.jpg" style="height: 50%; width:50%;"/></a>
+<a href="https://youtu.be/T3ugOYTRF7c"><img src="./Media/kotlin.jpg" style="height: 50%; width:50%;"/></a>
 
-#### [Clase en vídeo](https://www.twitch.tv/videos/1829088315?t=00h17m36s) y [Código](./05%20-%20Kotlin)
+#### [Clase en vídeo](https://youtu.be/T3ugOYTRF7c) y [Código](./05%20-%20Kotlin)
 
 **Recursos:** [Web oficial](https://kotlinlang.org) | [Web JetBrains](https://www.jetbrains.com/es-es/opensource/kotlin) | [Web Android](https://developer.android.com/kotlin?hl=es-419) | [Editor en línea](https://play.kotlinlang.org) | [Configuración](https://kotlinlang.org/docs/getting-started.html) | [Documentación](https://kotlinlang.org/docs/home.html) | [Tutorial](https://kotlinlang.org/docs/kotlin-tour-hello-world.html) | [Cursos Kotlin](https://kotlinlang.org/education/courses.html) | [Cursos Android](https://developer.android.com/courses?hl=es-419) | [Cursos JetBrains](https://www.jetbrains.com/academy/#learn)
 
