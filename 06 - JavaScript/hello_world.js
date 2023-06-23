@@ -1,5 +1,5 @@
 // Día 6: JavaScript
-// Clase en vídeo: https://www.twitch.tv/videos/1835012829?t=00h18m21s
+// Clase en vídeo: https://youtu.be/6cnFl9aHD5Y
 
 /*
 Esto es un comentario

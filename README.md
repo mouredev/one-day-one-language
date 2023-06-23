@@ -79,9 +79,9 @@ Así con cada uno de los lenguajes.
 
 ### <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height: 3%; width:3%;"/></a> Día 6: JavaScript
 
-<a href="https://www.twitch.tv/videos/1829088315?t=00h17m36s"><img src="./Media/javascript.jpg" style="height: 50%; width:50%;"/></a>
+<a href="https://youtu.be/6cnFl9aHD5Y"><img src="./Media/javascript.jpg" style="height: 50%; width:50%;"/></a>
 
-#### [Clase en vídeo](https://www.twitch.tv/videos/1835012829?t=00h18m21s) y [Código](./06%20-%20JavaScript)
+#### [Clase en vídeo](https://youtu.be/6cnFl9aHD5Y) y [Código](./06%20-%20JavaScript)
 
 **Recursos:** [Web oficial](https://developer.mozilla.org/es/docs/Web/JavaScript) | [Editor en línea](https://playcode.io/javascript-compiler) | [Tutorial Mozilla](https://developer.mozilla.org/es/docs/Web/JavaScript) | [Documentación](https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps) | [Tutorial W3Schools](https://www.w3schools.com/js/) | [Libro Aprendiendo JavaScript](https://mouredev.com/aprendiendojs)
 
@@ -91,20 +91,22 @@ Así con cada uno de los lenguajes.
 
 #### [Clase en vídeo](https://www.twitch.tv/videos/1841100654?t=00h17m59s) y [Código](./07%20-%20TypeScript)
 
-**Recursos:** [Web oficial](https://www.typescriptlang.org/es/)| [Editor en línea](https://www.typescriptlang.org/es/play) | [Configuración](https://www.typescriptlang.org/download) | [Documentación](https://www.typescriptlang.org/es/docs/) | [Tutorial W3Schools](https://www.w3schools.com/typescript/index.php) | [Tutorial Microsoft](https://learn.microsoft.com/es-es/training/browse/?terms=typescript)
+**Recursos:** [Web oficial](https://www.typescriptlang.org/es/) | [Editor en línea](https://www.typescriptlang.org/es/play) | [Configuración](https://www.typescriptlang.org/download) | [Documentación](https://www.typescriptlang.org/es/docs/) | [Tutorial W3Schools](https://www.w3schools.com/typescript/index.php) | [Tutorial Microsoft](https://learn.microsoft.com/es-es/training/browse/?terms=typescript)
           
-### <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" style="height: 3%; width:3%;"/></a> Día 8: Go `PRÓXIMA CLASE`
+### <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" style="height: 3%; width:3%;"/></a> Día 8: Go
+
+<a href="https://www.twitch.tv/videos/1852979951?t=00h22m39s"><img src="./Media/go.jpg" style="height: 50%; width:50%;"/></a>
+
+#### [Clase en vídeo](https://www.twitch.tv/videos/1852979951?t=00h22m39s) y [Código](./08%20-%20Go)
+
+**Recursos:** [Web oficial](https://go.dev) | [Editor en línea](https://go.dev/play/) | [Configuración](https://go.dev/doc/install) | [Documentación](https://go.dev/doc) | [Tutorial](https://go.dev/learn) | [Tutorial Microsoft](https://learn.microsoft.com/es-es/training/paths/go-first-steps/)        
+
+### <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" style="height: 3%; width:3%;"/></a> Día 9: Rust `PRÓXIMA CLASE`
 
 <a href="https://www.twitch.tv/mouredev"><img src="./Media/next.jpg" style="height: 50%; width:50%;"/></a>
 
-#### Clase en directo: Jueves 22 de Junio en [Twitch](https://twitch.tv/mouredev) a las 20:00 CEST
-> ##### Consulta el horario por país y añade un recordatorio desde [Discord](https://discord.gg/mouredev?event=1116689603332681730)         
-
-### Día 9: Rust
-
-<a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" style="height: 10%; width:10%;"/></a>
-
-> ##### Clase en directo: Próximamente...
+#### Clase en directo: Jueves 6 de Julio en [Twitch](https://twitch.tv/mouredev) a las 20:00 CEST
+> ##### Consulta el horario por país y añade un recordatorio desde [Discord](https://discord.gg/mouredev?event=1121720570489339915)     
 
 ### Día 10: PHP
 
