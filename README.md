@@ -87,9 +87,9 @@ Así con cada uno de los lenguajes.
 
 ### <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="height: 3%; width:3%;"/></a> Día 7: TypeScript
 
-<a href="https://www.twitch.tv/videos/1841100654?t=00h17m59s"><img src="./Media/typescript.jpg" style="height: 50%; width:50%;"/></a>
+<a href="https://youtu.be/4W3UWjyyVkQ"><img src="./Media/typescript.jpg" style="height: 50%; width:50%;"/></a>
 
-#### [Clase en vídeo](https://www.twitch.tv/videos/1841100654?t=00h17m59s) y [Código](./07%20-%20TypeScript)
+#### [Clase en vídeo](https://youtu.be/4W3UWjyyVkQ) y [Código](./07%20-%20TypeScript)
 
 **Recursos:** [Web oficial](https://www.typescriptlang.org/es/) | [Editor en línea](https://www.typescriptlang.org/es/play) | [Configuración](https://www.typescriptlang.org/download) | [Documentación](https://www.typescriptlang.org/es/docs/) | [Tutorial W3Schools](https://www.w3schools.com/typescript/index.php) | [Tutorial Microsoft](https://learn.microsoft.com/es-es/training/browse/?terms=typescript)
           

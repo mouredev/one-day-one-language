@@ -1,5 +1,5 @@
 // Día 7: TypeScript
-// Clase en vídeo: https://www.twitch.tv/videos/1841100654?t=00h17m59s
+// Clase en vídeo: https://youtu.be/4W3UWjyyVkQ
 
 /*
 Esto es un cometnario
