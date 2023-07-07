@@ -95,24 +95,26 @@ Así con cada uno de los lenguajes.
           
 ### <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" style="height: 3%; width:3%;"/></a> Día 8: Go
 
-<a href="https://www.twitch.tv/videos/1852979951?t=00h22m39s"><img src="./Media/go.jpg" style="height: 50%; width:50%;"/></a>
+<a href="https://youtu.be/AGiayASyp2Q"><img src="./Media/go.jpg" style="height: 50%; width:50%;"/></a>
 
-#### [Clase en vídeo](https://www.twitch.tv/videos/1852979951?t=00h22m39s) y [Código](./08%20-%20Go)
+#### [Clase en vídeo](https://youtu.be/AGiayASyp2Q) y [Código](./08%20-%20Go)
 
 **Recursos:** [Web oficial](https://go.dev) | [Editor en línea](https://go.dev/play/) | [Configuración](https://go.dev/doc/install) | [Documentación](https://go.dev/doc) | [Tutorial](https://go.dev/learn) | [Tutorial Microsoft](https://learn.microsoft.com/es-es/training/paths/go-first-steps/)        
 
-### <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" style="height: 3%; width:3%;"/></a> Día 9: Rust `PRÓXIMA CLASE`
+### <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" style="height: 3%; width:3%;"/></a> Día 9: Rust
+
+<a href="https://www.twitch.tv/videos/1864964633?t=00h20m16s"><img src="./Media/rust.jpg" style="height: 50%; width:50%;"/></a>
+
+#### [Clase en vídeo](https://www.twitch.tv/videos/1864964633?t=00h20m16s) y [Código](./09%20-%20Rust)
+
+**Recursos:** [Web oficial](https://www.rust-lang.org/es/) | [Editor en línea](https://play.rust-lang.org/) | [Configuración](https://www.rust-lang.org/es/learn/get-started) | [Documentación](https://www.rust-lang.org/es/learn) | [Tutorial](https://doc.rust-lang.org/rust-by-example/) | [Libro](https://github.com/Phosphorus-M/rust-book-es)      
+
+### <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="height: 3%; width:3%;"/></a> Día 10: PHP `PRÓXIMA CLASE`
 
 <a href="https://www.twitch.tv/mouredev"><img src="./Media/next.jpg" style="height: 50%; width:50%;"/></a>
 
-#### Clase en directo: Jueves 6 de Julio en [Twitch](https://twitch.tv/mouredev) a las 20:00 CEST
-> ##### Consulta el horario por país y añade un recordatorio desde [Discord](https://discord.gg/mouredev?event=1121720570489339915)     
-
-### Día 10: PHP
-
-<a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="height: 10%; width:10%;"/></a>
-
-> ##### Clase en directo: Próximamente...
+#### Clase en directo: Jueves 18 de Julio en [Twitch](https://twitch.tv/mouredev) a las 18:00 CEST
+> ##### Consulta el horario por país y añade un recordatorio desde [Discord](https://discord.gg/mouredev?event=1126833328864100464)  
 
 #### ¿Y después? Todo dependerá del interés de la comunidad...
           

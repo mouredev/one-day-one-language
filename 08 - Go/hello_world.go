@@ -1,5 +1,5 @@
 // Día 8: Go
-// Clase en vídeo: https://www.twitch.tv/videos/1852979951?t=00h22m39s
+// Clase en vídeo: https://youtu.be/AGiayASyp2Q
 
 // Creación de módulo: go mod init main
 package main
