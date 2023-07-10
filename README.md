@@ -113,7 +113,7 @@ Así con cada uno de los lenguajes.
 
 <a href="https://www.twitch.tv/mouredev"><img src="./Media/next.jpg" style="height: 50%; width:50%;"/></a>
 
-#### Clase en directo: Jueves 18 de Julio en [Twitch](https://twitch.tv/mouredev) a las 18:00 CEST
+#### Clase en directo: Martes 18 de Julio en [Twitch](https://twitch.tv/mouredev) a las 18:00 CEST
 > ##### Consulta el horario por país y añade un recordatorio desde [Discord](https://discord.gg/mouredev?event=1126833328864100464)  
 
 #### ¿Y después? Todo dependerá del interés de la comunidad...
