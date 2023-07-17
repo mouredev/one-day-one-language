@@ -103,9 +103,9 @@ Así con cada uno de los lenguajes.
 
 ### <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" style="height: 3%; width:3%;"/></a> Día 9: Rust
 
-<a href="https://www.twitch.tv/videos/1864964633?t=00h20m16s"><img src="./Media/rust.jpg" style="height: 50%; width:50%;"/></a>
+<a href="https://youtu.be/GWprpnIG-w4"><img src="./Media/rust.jpg" style="height: 50%; width:50%;"/></a>
 
-#### [Clase en vídeo](https://www.twitch.tv/videos/1864964633?t=00h20m16s) y [Código](./09%20-%20Rust)
+#### [Clase en vídeo](https://youtu.be/GWprpnIG-w4) y [Código](./09%20-%20Rust)
 
 **Recursos:** [Web oficial](https://www.rust-lang.org/es/) | [Editor en línea](https://play.rust-lang.org/) | [Configuración](https://www.rust-lang.org/es/learn/get-started) | [Documentación](https://www.rust-lang.org/es/learn) | [Tutorial](https://doc.rust-lang.org/rust-by-example/) | [Libro](https://github.com/Phosphorus-M/rust-book-es)      
 
