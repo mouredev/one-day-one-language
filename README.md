@@ -109,14 +109,15 @@ Así con cada uno de los lenguajes.
 
 **Recursos:** [Web oficial](https://www.rust-lang.org/es/) | [Editor en línea](https://play.rust-lang.org/) | [Configuración](https://www.rust-lang.org/es/learn/get-started) | [Documentación](https://www.rust-lang.org/es/learn) | [Tutorial](https://doc.rust-lang.org/rust-by-example/) | [Libro](https://github.com/Phosphorus-M/rust-book-es)      
 
-### <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="height: 3%; width:3%;"/></a> Día 10: PHP `PRÓXIMA CLASE`
+### <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="height: 3%; width:3%;"/></a> Día 10: PHP
 
-<a href="https://www.twitch.tv/mouredev"><img src="./Media/next.jpg" style="height: 50%; width:50%;"/></a>
+<a href="https://youtu.be/nPCJAx5c1uE"><img src="./Media/php.jpg" style="height: 50%; width:50%;"/></a>
 
-#### Clase en directo: Martes 18 de Julio en [Twitch](https://twitch.tv/mouredev) a las 18:00 CEST
-> ##### Consulta el horario por país y añade un recordatorio desde [Discord](https://discord.gg/mouredev?event=1126833328864100464)  
+#### [Clase en vídeo](https://youtu.be/nPCJAx5c1uE) y [Código](./10%20-%20PHP)
 
-#### ¿Y después? Todo dependerá del interés de la comunidad...
+**Recursos:** [Web oficial](https://www.php.net) | [Editor en línea](https://paiza.io/es/projects/new) | [Configuración](https://www.php.net/manual/es/install.php) | [Documentación](https://www.php.net/manual/es/) | [Tutorial](https://www.php.net/manual/es/langref.php) | [Tutorial W3Schools](https://www.w3schools.com/php/)     
+
+#### ¿Quieres más lenguajes? Haz "star" por el repo y dime por redes qué lenguaje te gustaría añadir.
           
 ## Preguntas frecuentes
 
