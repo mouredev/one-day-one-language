@@ -115,7 +115,15 @@ Así con cada uno de los lenguajes.
 
 #### [Clase en vídeo](https://youtu.be/nPCJAx5c1uE) y [Código](./10%20-%20PHP)
 
-**Recursos:** [Web oficial](https://www.php.net) | [Editor en línea](https://paiza.io/es/projects/new) | [Configuración](https://www.php.net/manual/es/install.php) | [Documentación](https://www.php.net/manual/es/) | [Tutorial](https://www.php.net/manual/es/langref.php) | [Tutorial W3Schools](https://www.w3schools.com/php/)     
+**Recursos:** [Web oficial](https://www.php.net) | [Editor en línea](https://paiza.io/es/projects/new) | [Configuración](https://www.php.net/manual/es/install.php) | [Documentación](https://www.php.net/manual/es/) | [Tutorial](https://www.php.net/manual/es/langref.php) | [Tutorial W3Schools](https://www.w3schools.com/php/)
+
+### <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="height: 3%; width:3%;"/></a> Día 11: C Sharp
+
+<a href="https://youtu.be/L-f8u0hwi4Y"><img src="./Media/csharp.jpg" style="height: 50%; width:50%;"/></a>
+
+#### [Clase en vídeo](https://youtu.be/L-f8u0hwi4Y) y [Código](./11%20-%20CSharp)
+
+**Recursos:** [Web oficial](https://dotnet.microsoft.com) | [Editor en línea](https://sharplab.io) | [Configuración](https://dotnet.microsoft.com/download) | [Documentación](https://learn.microsoft.com/es-es/dotnet/csharp/) | [Tutorial](https://dotnet.microsoft.com/learn/csharp) | [Unity](https://unity.com)     
 
 #### ¿Quieres más lenguajes? Haz "star" por el repo y dime por redes qué lenguaje te gustaría añadir.
           
